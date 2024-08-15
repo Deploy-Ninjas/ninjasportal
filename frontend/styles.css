@@ -66,6 +66,12 @@ body {
   font-size: larger;
 }
 
+.welcome-ninja-error {
+  color: red !important;
+  font-weight: 800;
+  font-size: larger;
+}
+
 .welcome-ninja img {
   max-width: 100%;
   height: auto;

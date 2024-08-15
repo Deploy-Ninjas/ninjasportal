@@ -7,9 +7,9 @@
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-    <div class="welcome-page">
+    <div class="welcome-ninja">
         <!-- <img src="/img/ninjagroup.jpg" alt="Ninjas Assemble"> -->
-        <h1 class="welcome-page-main">Welcome Ninja!</h1>
+        <h1 class="welcome-ninja-main">Welcome Ninja!</h1>
         <p style="text-align: center;">Your one stop centre of everything Ninja</p>
     </div>
 </body>
